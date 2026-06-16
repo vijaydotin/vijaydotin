@@ -7,7 +7,7 @@
   </a>
 </p>
 <div>
-    ## 🧠 My Focus Areas
+  - 🧠 My Focus Areas
 - web development
 - cyber security
 </div>
