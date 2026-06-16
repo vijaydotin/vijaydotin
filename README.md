@@ -38,14 +38,21 @@ const vijay = {
 <br clear="right"/>
 
 ---
-# 🟩 Contribution Calendar
+# 🐉 Contribution Trail
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/40c463/vijaydotin" alt="GitHub Contribution Chart" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaydotin&theme=tokyonight" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/40c463/vijaydotin" alt="Contribution Calendar" />
+
+</div>
 # 📊 Battle Statistics
 
 <div align="center">
