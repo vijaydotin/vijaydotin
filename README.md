@@ -21,7 +21,6 @@
   <img src="https://streak-stats.demolab.com/?user=vijaydotin&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="vijaydotin's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vijaydotin&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="vijay pandey's GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
