@@ -39,15 +39,7 @@ const vijay = {
 
 ---
 # 🐉 Contribution Trail
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaydotin&theme=tokyonight" />
-
-</div>
-
 <br>
-
 <div align="center">
 
 <img src="https://ghchart.rshah.org/40c463/vijaydotin" alt="Contribution Calendar" />
