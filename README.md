@@ -18,6 +18,9 @@
   <a href="https://github.com/vijaydotin">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vijaydotin&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="vijaydotin's GitHub Stats" />
   </a>
+
+
+  
   <img src="https://streak-stats.demolab.com/?user=vijaydotin&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="vijaydotin's GitHub Streak" width="49%" />
 </p>
 </a>
