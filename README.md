@@ -16,8 +16,6 @@
 
 ## 🌌 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ```javascript
 const vijay = {
     role: "Software Developer",
@@ -32,8 +30,6 @@ const vijay = {
 - ☁️ Learning cloud-native technologies and DevOps
 - 🚀 Passionate about performance, design, and user experience
 - ⚡ Always improving through continuous learning
-
-<br clear="right"/>
 
 ---
 
@@ -65,21 +61,31 @@ const vijay = {
 
 <img src="https://skillicons.dev/icons?i=js,java" />
 
+<br><br>
+
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite" />
+
+<br><br>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
+<br><br>
+
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
+<br><br>
+
 ### ☁️ DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+
+<br><br>
 
 ### 🛠️ Tools
 
@@ -89,15 +95,7 @@ const vijay = {
 
 ---
 
-# 🏙️ Visual Zone
-
-<div align="center">
-
-<img src="profile-3d-city.svg" alt="3D City" width="100%" />
-
-</div>
-
-<br>
+# 🏆 Achievements
 
 <div align="center">
 
@@ -105,7 +103,9 @@ const vijay = {
 
 </div>
 
-<br>
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
 
