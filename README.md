@@ -16,6 +16,8 @@
 
 # 🌌 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" />
+
 ```javascript
 const vijay = {
   role: "Software Developer",
@@ -30,6 +32,8 @@ const vijay = {
 - ☁️ Learning cloud-native technologies and DevOps
 - 🚀 Passionate about performance, design, and user experience
 - ⚡ Always improving through continuous learning
+
+<br clear="right"/>
 
 ---
 
@@ -100,16 +104,6 @@ const vijay = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaydotin&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# 💻 Developer Zone
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Coding" />
 
 </div>
 
