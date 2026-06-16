@@ -20,7 +20,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=vijaydotin&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="vijaydotin's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+</a>
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
