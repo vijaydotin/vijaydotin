@@ -38,6 +38,13 @@ const vijay = {
 <br clear="right"/>
 
 ---
+# 🟩 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/40c463/vijaydotin" alt="GitHub Contribution Chart" />
+
+</div>
 
 # 📊 Battle Statistics
 
