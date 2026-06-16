@@ -19,6 +19,7 @@
 
 
   ## STREAK
+  <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vijaydotin&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="vijaydotin's GitHub Streak" width="49%" />
 </p>
 </a>
