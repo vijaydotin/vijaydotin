@@ -4,11 +4,11 @@
 
 # ⚡ Software Developer • Web Development • Cyber Security
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Code+.+Create+.+Secure;Building+Modern+Web+Experiences;Cyber+Security+Explorer;Crafting+Scalable+Systems;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&lines=Code+.+Create+.+Secure;Building+Modern+Web+Experiences;Cyber+Security+Explorer;Crafting+Scalable+Systems;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=vijaydotin&label=PROFILE+VIEWS&color=ff4fd8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vijaydotin&label=PROFILE+VIEWS&color=ff4fd8&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 # 🌙 Digital Dojo
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding"/>
 
 ```javascript
 const vijay = {
@@ -39,13 +39,13 @@ const vijay = {
 
 ---
 
-# 📈 Battle Statistics
+# 📊 Battle Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaydotin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaydotin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydotin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydotin&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -53,7 +53,7 @@ const vijay = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vijaydotin&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vijaydotin&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -65,47 +65,50 @@ const vijay = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,java"/>
+<img src="https://skillicons.dev/icons?i=js,java" />
 
 <br><br>
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite" />
 
 <br><br>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <br><br>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
 
 <br><br>
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# 🌌 Activity Matrix
+# 🌃 Activity Matrix
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaydotin&theme=tokyo-night&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vijaydotin&bg_color=0d1117&color=ff4fd8&line=ff4fd8&point=ffffff&area=true&hide_border=true"
+  width="100%"
+/>
 
 </div>
 
