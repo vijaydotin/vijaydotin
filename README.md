@@ -5,10 +5,13 @@
   <a href="https://komarev.com/ghpvc/?username=vijaydotin">
     <img src="https://komarev.com/ghpvc/?username=vijaydotin&label=Profile%20views&color=00FFFF&style=flat-square" alt="vijaydotin's profile views" />
   </a>
-  ## 🧠 My Focus Areas
+</p>
+<div>
+    ## 🧠 My Focus Areas
 - web development
 - cyber security
-</p>
+</div>
+ 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
