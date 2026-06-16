@@ -14,14 +14,14 @@
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
 ```javascript
 const vijay = {
-    role: "Software Developer",
-    focus: ["Web Development", "Cyber Security"],
-    currentlyLearning: ["Cloud", "DevOps", "System Design"],
-    motto: "Code. Create. Secure."
+  role: "Software Developer",
+  focus: ["Web Development", "Cyber Security"],
+  currentlyLearning: ["Cloud", "DevOps", "System Design"],
+  motto: "Code. Create. Secure."
 };
 ```
 
@@ -95,21 +95,21 @@ const vijay = {
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vijaydotin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaydotin&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 💻 Developer Zone
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-74a2-4f09-ae30-ff7e7c4fb9eb.gif" width="700" alt="Coding Animation"/>
 
 </div>
 
