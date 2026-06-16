@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vijay pandey</h1>
-<h3 align="center">software devloper</h3>
+<h1 align="center">Hi 👋, I'm VIJAY PANDEY</h1>
+<h3 align="center">SOFTWARE DEVLOPER</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vijaydotin">
