@@ -49,8 +49,6 @@ const vijay = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaydotin&show_icons=true&include_all_commits=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydotin&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
